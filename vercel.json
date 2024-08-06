@@ -1,0 +1,7 @@
+{
+  "functions": {
+    "app/api/testing/route.ts": {
+      "maxDuration": 230
+    }
+  }
+}
